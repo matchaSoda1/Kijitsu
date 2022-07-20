@@ -5,6 +5,7 @@ Japanese web articles to your Anki Japanese learning deck in seconds.
 ## Description
 
 See a great article on NHK, Asahi Shimbun news sites but don't want to manually copy and paste each sentences and image into each card? Kijitsu will automatically generate Anki notes from an article for you in seconds with images (if present) saving you time for more learning.
+
 Morphman addon encouraged for optimal language learning. :-)
 
 ## Snapshot
